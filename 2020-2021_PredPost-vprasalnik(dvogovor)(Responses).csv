@@ -1,0 +1,19 @@
+Timestamp;Vpisna številka;Spol:;Starost:;Status:;1p. Ste že kdaj uporabljali pogovorni sistem (npr. Siri, Google Assistant, Cortana, Amazon Alexa)?;2p. Ali imate izkušnje s sintetiziranim govorom (npr. glas telefonskega odzivnika, samopostrežne blagajne);3p. Ocenite, kakšno je vaše trenutno počutje.;4p. Ocenite, v kolikšni meri se trenutno počutite utrujeni.;5p. Ocenite, v kolikšni meri se vam trenutno mudi.;6p. Kateri vmesik z Alexo boste uporabili;1. Sistem mi je dal občutek nadzora.;2. Sporočila so se ponavljala.;3. Sistem mi je kot sogovorniku dal dober občutek.;4. Sistem je uporabljal vsakdanje besede.;5. Brez težav sem dosegel cilj pogovora;6. Sistem se je zdel prijeten.;7. Sistem je dobro organiziran in logičen.;8. Sistem je ponudil več podrobnosti kot sem jih potreboval.;9. Hitrost govora je bila primerna in lahko sem ga sledil.;10. Sistem je uporaben v praksi.;11. Sistem se je zdel vljuden.;12. Sistemu zaupam, da deluje korektno.;13. Verjetno bi ta sistem ponovno uporabil.;14. Glas sistema je bil prijeten.;15. Sistem je bil preveč zgovoren.;16. Glas sistema je zvenel kot glas televizije ali radia. ;17. Sistem sem uporabljal samozavestno.;18. Glas sistema je zvenel kot običajna oseba.;19. Kvaliteta delovanja sistema je zadostna in še ga bom uporabil.;20. Glas sistema je zvenel naravno.;21. Sistem je bil vljuden.;22. Zdelo se mi je, da sem moral predolgo čakati, da je sistem nehal govoriti, zato da sem lahko odgovoril.;23. Sistem je bil prijazen.;24. Glas sistema je zvenel entuziasti?no oziroma energi?no.;25. Sistem se je glede na način govora zdel profesionalen. 
+01/09/2019 12:32;63180413;moški;23;Študent/-ka;Ne;Ne;3;3;4;Simulator (PC);3;4;4;5;4;5;4;4;6;5;6;4;5;6;5;3;4;5;5;5;6;7;6;3;6
+01/09/2019 12:39;63180419;ženski;23;Študent/-ka;Da;Da;4;2;2;Simulator (PC);7;2;7;7;6;7;7;5;7;7;7;7;7;7;3;7;7;6;7;7;7;5;7;7;7
+01/09/2019 12:47;63180416;moški;23;Študent/-ka;Da;Da;2;3;1;Echo;2;3;4;5;2;5;3;2;5;4;5;5;3;6;4;5;5;6;4;6;5;7;5;2;5
+01/09/2019 12:57;63180402;ženski;23;Študent/-ka;Da;Da;3;3;3;Echo;4;3;4;6;6;4;4;5;7;3;6;6;4;6;3;3;5;2;3;2;5;3;6;6;5
+01/09/2019 12:57;63180399;moški;24;Študent/-ka;Ne;Da;5;4;2;Echo;5;6;4;7;6;6;6;7;5;6;7;5;7;7;4;3;6;7;4;6;6;7;6;5;6
+01/09/2019 12:58;63170424;moški;24;Študent/-ka;Da;Da;3;2;1;Echo;6;6;6;6;5;7;4;5;7;5;7;6;4;7;3;5;3;3;4;2;7;5;7;3;7
+01/09/2019 13:03;63180414;moški;21;Študent/-ka;Da;Da;3;3;2;Echo;4;2;6;6;7;7;6;3;7;6;6;5;7;6;5;5;6;5;5;3;6;5;6;5;5
+01/09/2019 13:08;63180410;ženski;23;Študent/-ka;Da;Da;3;5;2;Echo;5;2;5;7;5;6;6;2;7;6;7;7;6;7;2;3;7;7;5;6;6;5;7;4;5
+01/09/2019 13:55;63180401;moški;23;Študent/-ka;Da;Da;4;3;4;Simulator (PC);6;3;5;7;5;6;5;4;7;6;7;5;5;7;4;6;6;6;6;5;7;3;6;5;6
+01/09/2019 14:27;63180412;moški;23;Študent/-ka;Ne;Da;4;1;2;Simulator (PC);6;5;3;6;4;5;5;2;7;4;6;5;5;6;2;4;3;4;5;3;5;2;5;4;6
+01/09/2019 14:29;63140284;moški;23;Študent/-ka;Ne;Da;4;3;3;Echo;5;4;5;7;6;6;7;4;7;7;7;6;5;7;4;4;7;4;6;5;7;6;7;5;6
+01/09/2019 14:37;63180398;moški;24;Študent/-ka;Da;Da;2;4;2;Echo;5;4;5;6;7;6;5;4;2;7;6;6;5;6;6;3;4;3;5;2;6;5;6;2;6
+01/09/2019 14:44;63180418;moški;23;Študent/-ka;Da;Da;4;2;4;Echo;5;4;3;6;4;5;4;3;7;5;6;6;6;5;4;3;6;5;4;4;6;4;6;5;6
+01/09/2019 14:44;63180411;moški;22;Študent/-ka;Da;Da;4;2;2;Simulator (PC);;;;;;;;;;;;;;;;;;;;;;;;;
+01/09/2019 14:46;63180415;moški;24;Študent/-ka;Da;Da;3;3;4;Simulator (PC);3;5;4;7;4;6;3;4;7;4;6;4;4;7;5;5;7;7;4;7;7;6;7;5;7
+01/09/2019 14:56;63180420;moški;22;Študent/-ka;Ne;Ne;3;3;3;Echo;7;3;5;5;4;5;6;5;7;6;7;2;5;7;3;4;7;4;4;3;5;4;7;5;7
+01/09/2019 14:56;63140015;moški;23;Študent/-ka;Ne;Ne;3;4;1;Echo;3;3;4;7;3;3;5;3;7;5;7;2;3;6;5;2;3;2;3;2;7;1;7;4;6
+01/09/2019 15:09;11111111;moški;22;Študent/-ka;Da;Da;4;2;2;Echo;6;6;7;7;6;6;4;3;7;7;7;6;7;6;5;1;7;2;5;2;7;5;7;1;3
